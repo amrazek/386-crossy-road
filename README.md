@@ -15,3 +15,5 @@ Playing the Game
 
 WASD or Arrow keys or Left Click to make the Chicken jump.
 Go as far as you can!
+
+If running in Unreal editor, LAUNCH the game to see intro
